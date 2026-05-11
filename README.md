@@ -66,3 +66,8 @@ Y2K scene-inspired theme. Don't take this one too seriously.
 Vaio theme, cloned from the Vaio themeset on Internet Archive.
 ![Vaio](/images/vaio.png)
 
+## Pastel2K-Springfield
+Simpsons theme, cloned from the Simpsons theme on Internet Archive.
+![Vaio](/images/springfield.png)
+
+
