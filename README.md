@@ -61,3 +61,8 @@ An alternate Common Desktop Environment-based theme.
 ## Pastel2K-RawrMeansILY
 Y2K scene-inspired theme. Don't take this one too seriously.
 ![Rawr](/images/RawrMeansILY.png)
+
+## Pastel2K-Vaio
+Vaio theme, cloned from the Vaio themeset on Internet Archive.
+![Vaio](/images/vaio.png)
+
