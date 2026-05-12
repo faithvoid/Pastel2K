@@ -5,6 +5,9 @@ Intended to eventually be used as the aesthetic basis of "[9xOS](https://github.
 
 ### Installation:
 Copy your theme of choice to the ".themes" folder in your local user directory (if the directory does not exist, make it and then move the theme into it!)
+
+If the theme does not exist in the Releases but exists in the "conf" section, you can use "gen_theme.sh" in the "tools" section to build and install it yourself! Make sure to replace the default "theme.conf" with the .conf file of your choosing.
+
 ### Recommended:
 #### Icons:
 
