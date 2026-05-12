@@ -75,6 +75,20 @@ Vaio theme, cloned from the Vaio themeset on Internet Archive.
 Simpsons theme, cloned from the Simpsons theme on Internet Archive.
 ![Vaio](/images/springfield.png)
 
+## Pastel2K-Reki
+Reki theme, cloned from the Haibane Renmei theme on Internet Archive.
+![Reki](/images/reki.png)
+
+## Pastel2K-Rakka
+Rakka theme, cloned from the Haibane Renmei theme on Internet Archive.
+![Rakka](/images/rakka.png)
+
+## Pastel2K-Angel
+Angel theme, cloned from the Haibane Renmei theme on Internet Archive.
+![Angel](/images/angel.png)
+
+
+
 
 ### Roadmap
 - [ ] Create Windows 9X / 2000 .theme to .conf conversion utility in Python
