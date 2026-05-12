@@ -3,12 +3,14 @@ A series of Redmond97-based themes for XFCE4.
 
 Intended to eventually be used as the aesthetic basis of "[9xOS](https://github.com/faithvoid/9xos)", a retro PC gaming OS for the Raspberry Pi, but works for all *nix distros as long as they can run XFCE4!
 
-### Installation:
+# Installation:
 Copy your theme of choice to the ".themes" folder in your local user directory (if the directory does not exist, make it and then move the theme into it!)
 
 If the theme does not exist in the Releases but exists in the "conf" section, you can use "gen_theme.sh" in the "tools" section to build and install it yourself! Make sure to replace the default "theme.conf" with the .conf file of your choosing.
 
-### Recommended:
+To convert your own Windows 9x/2K themes to Pastel2K standards, you can use "theme2conf.py" in "tools" by running "python theme2conf.py ThemeName.theme" (with ThemeName.theme being your Windows theme), which will automatically output a near 1:1 Pastel2K theme file to apply. Please note that this utility is still very barebones, as I'm hoping to add automatic cursor, wallpaper and sound theme conversion and naming support so installing the entirety of a Windows theme is a simple as possible.
+
+# Recommended:
 #### Icons:
 
 - [98SE](https://github.com/nestoris/Win98SE) - Windows 98 style icons
