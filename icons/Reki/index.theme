@@ -1,7 +1,7 @@
 [Icon Theme]
-Name=Haibane Renmei Reki
+Name=Pastel2K Reki
 Comment=Ported from Haibane Renmei Reki.Theme
-Inherits=Chicago95,Chicago95-tux,nineicons-redux,SE98,Adwaita,gnome,hicolor
+Inherits=nineicons-redux,Chicago95,Chicago95-tux,SE98,Adwaita,gnome,hicolor
 Example=left_ptr
 Directories=48x48/apps
 
