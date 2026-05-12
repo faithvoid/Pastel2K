@@ -74,3 +74,8 @@ Simpsons theme, cloned from the Simpsons theme on Internet Archive.
 ![Vaio](/images/springfield.png)
 
 
+### Roadmap
+- [ ] Create Windows 9X / 2000 .theme to .conf conversion utility in Python
+- [ ] Create Windows 9X / 2000 .theme icon / sound theme conversion utility in Python
+- [ ] Create a basic tool for editing and previewing themes in Tkinter or PyQT(?)
+- [ ] Create additional themes, organize theme folders with their original wallpapers, sounds, cursors, etc, all converted to Linux standards.
