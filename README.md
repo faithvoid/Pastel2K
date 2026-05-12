@@ -3,6 +3,8 @@ A series of Redmond97-based themes for XFCE4.
 
 Intended to eventually be used as the aesthetic basis of "[9xOS](https://github.com/faithvoid/9xos)", a retro PC gaming OS for the Raspberry Pi, but works for all *nix distros as long as they can run XFCE4!
 
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=8GF4A3XS7ZHFY)
+
 # Installation:
 Copy your theme of choice to the ".themes" folder in your local user directory (if the directory does not exist, make it and then move the theme into it!). If using a matching icon & cursor set from "icons", copy the files into the ".icons" folder of your home directory.
 
