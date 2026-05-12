@@ -1,0 +1,10 @@
+[Icon Theme]
+Name=Haibane Renmei Angel
+Comment=Ported from Haibane Renmei Angel.Theme
+Inherits=Chicago95,Chicago95-tux,nineicons-redux,SE98,Adwaita,gnome,hicolor
+Example=left_ptr
+Directories=48x48/apps
+
+[48x48/apps]
+Size=48
+Type=Fixed
