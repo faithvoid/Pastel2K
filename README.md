@@ -93,7 +93,7 @@ Angel theme, cloned from the Haibane Renmei theme on Internet Archive.
 
 
 ### Roadmap
-- [ ] Create Windows 9X / 2000 .theme to .conf conversion utility in Python
+- [x] Create Windows 9X / 2000 .theme to .conf conversion utility in Python (finished, needs a fix for theme names though)
 - [ ] Create Windows 9X / 2000 .theme icon / sound theme conversion utility in Python
 - [ ] Create a basic tool for editing and previewing themes in Tkinter or PyQT(?)
 - [ ] Create additional themes, organize theme folders with their original wallpapers, sounds, cursors, etc, all converted to Linux standards.
